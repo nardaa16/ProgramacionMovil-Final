@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores ALTOKLOUD -->
+    <color name="rosa_altokloud">#FF1F8E</color>
+    <color name="rosa_oscuro">#E01B7F</color>
+    <color name="negro_fondo">#000000</color>
+    <color name="gris_campo">#2D2D2D</color>
+    <color name="gris_campo_claro">#3D3D3D</color>
+    <color name="gris_texto">#888888</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
